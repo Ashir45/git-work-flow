@@ -1,1 +1,3 @@
-console . log("objects")
+<script>
+  document.write("Server is healthy ✅");
+</script>
